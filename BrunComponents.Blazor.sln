@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunComponents.Blazor", "BrunComponents.Blazor.csproj", "{490057EA-EA53-438E-B06F-D9503F532D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		|Any CPU = |Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490057EA-EA53-438E-B06F-D9503F532D2A}.|Any CPU.ActiveCfg = |Any CPU
+		{490057EA-EA53-438E-B06F-D9503F532D2A}.|Any CPU.Build.0 = |Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639AE40F-F502-463E-8F11-5BE7003C14C2}
+	EndGlobalSection
+EndGlobal
